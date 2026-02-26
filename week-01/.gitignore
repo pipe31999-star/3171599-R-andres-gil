@@ -1,0 +1,13 @@
+node_modules/
+dist/
+.env
+.vscode/
+.DS_Store
+*.log
+npm-debug.log*
+.pnpm-debug.log*
+coverage/
+.idea/
+
+# keep lockfile
+# pnpm-lock.yaml
