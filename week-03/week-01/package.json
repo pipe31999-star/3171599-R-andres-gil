@@ -1,8 +1,0 @@
-{
-  "name": "plataforma-de-streaming",
-  "version": "1.0.0",
-  "type": "module",
-  "scripts": {
-    "start": "ts-node starter/index.ts"
-  }
-}
